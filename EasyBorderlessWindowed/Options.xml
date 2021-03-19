@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<options>
+    <option ID="OptionDisplayBorderlessFullscreen" DisplayText="Borderless Fullscreen" Category="General" Type="Checkbox" Default="Yes"></option>
+</options>
